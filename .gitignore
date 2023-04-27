@@ -1,18 +1,18 @@
 # Dependency directories
-/node_modules
+node_modules
 
 # Environment variables
-/.env
+.env
 
 # Build files
 /client/build
 /server/build
 
 # Logs
-/logs
+logs
 
 # Cache
-/.cache
+cache
 
 # Editor files
 .vscode/
